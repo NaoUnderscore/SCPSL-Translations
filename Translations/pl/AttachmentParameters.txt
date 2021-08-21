@@ -1,0 +1,19 @@
+Powiększenie ADS
+---
+Obrażenia
+Penetracja
+Szybkostrzelność
+Odrzut
+Odrzut podczas celowania
+Celność pocisku
+Celność z biodra
+Celność przy celowaniu
+Equip speed
+Głośność wystrzału
+Pojemność magazynka
+Equip time
+Reload time
+---
+Aiming speed
+Rozrzut śrutu
+Spójność rozrzutu
