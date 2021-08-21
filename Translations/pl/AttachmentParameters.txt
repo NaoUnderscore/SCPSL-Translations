@@ -8,11 +8,11 @@ Odrzut podczas celowania
 Celność pocisku
 Celność z biodra
 Celność przy celowaniu
-Equip speed
+Prędkość dobywania
 Głośność wystrzału
 Pojemność magazynka
-Equip time
-Reload time
+Czas dobywania
+Czas przeładowania
 ---
 Aiming speed
 Rozrzut śrutu
