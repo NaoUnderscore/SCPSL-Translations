@@ -14,6 +14,6 @@ Pojemność magazynka
 Czas dobywania
 Czas przeładowania
 ---
-Aiming speed
+Prędkość celowania
 Rozrzut śrutu
 Spójność rozrzutu
